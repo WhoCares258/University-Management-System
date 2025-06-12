@@ -1,0 +1,5 @@
+CSC1024,Programming,Dr. Sofia Costa,Room 01,Monday,08:00,Wednesday,10:00
+MTH1114,Critical Thinking,Dr. Javier Ramirez,Room 02,Tuesday,08:00,Thursday,10:00 AM
+MPU3112,Ethics,Dr. Amir Khan,Room 03,Wednesday,13:00,Friday,15:00
+MPU3122,Philosophy,Dr. Leila Abadi,Room 04,Monday,15:00,Thursday,13:00
+MPU3142,Malay Language,Dr. Nuralina Ahmad,Room 05,Wednesday,15:00,Friday,08:00

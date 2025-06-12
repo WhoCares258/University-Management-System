@@ -1,0 +1,5 @@
+F001,faculty1,Dr. Sofia Costa,CSC1024
+F002,faculty2,Dr. Javier Ramirez,MTH1114
+F003,faculty3,Dr. Amir Khan,MPU3112
+F004,faculty4,Dr. Leila Abadi,MPU3122
+F005,faculty5,Dr. Nuralina Ahmad,MPU3142
