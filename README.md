@@ -18,5 +18,4 @@ A comprehensive **university management system** built with Python and Tkinter. 
 ## 🖼️ Screenshots
 
 ```markdown
-![Login Screen](login.png)
-![Student Dashboard](images/student_dashboard.png)
+![Uploading login.png…]()
