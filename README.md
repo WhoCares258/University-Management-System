@@ -19,5 +19,5 @@ A comprehensive **university management system** built with Python and Tkinter. 
 *If you'd like to add screenshots, place the images in the repository (e.g., in an `assets/` or `images/` folder), and use the following markdown format:*
 
 ```markdown
-![Login Screen](images/login.png)
+![Login Screen](login.png)
 ![Student Dashboard](images/student_dashboard.png)
