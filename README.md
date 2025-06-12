@@ -18,4 +18,4 @@ A comprehensive **university management system** built with Python and Tkinter. 
 ## 🖼️ Screenshots
 
 ```markdown
-![Uploading login.png…]()
+[![Uploading login.png…]()](https://github.com/WhoCares258/University-Management-System/blob/main/login.png)
