@@ -15,6 +15,11 @@ A comprehensive **university management system** built with Python and Tkinter. 
 - View student timetables.
 - Update student assignment statuses.
 
-## 🖼️ Screenshots
+## 🖼️ Login Page
+![Login Page](https://github.com/WhoCares258/University-Management-System/blob/main/1.png)
 
-![image](https://github.com/WhoCares258/University-Management-System/blob/main/login.png)
+## 🖼️ Student Timetable
+![Student Timetable](https://github.com/WhoCares258/University-Management-System/blob/main/2.png)
+
+## 🖼️ Mark Assignments
+![Mark Assignments](https://github.com/WhoCares258/University-Management-System/blob/main/3.png)
